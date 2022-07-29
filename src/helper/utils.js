@@ -1,0 +1,1 @@
+export const removeEmptySpace = (str) => str.replace(" ", "");
